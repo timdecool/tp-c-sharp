@@ -1,0 +1,14 @@
+/home/timdecool/RiderProjects/TPGestionCompte/TPGestionCompte/bin/Debug/net8.0/TPGestionCompte
+/home/timdecool/RiderProjects/TPGestionCompte/TPGestionCompte/bin/Debug/net8.0/TPGestionCompte.deps.json
+/home/timdecool/RiderProjects/TPGestionCompte/TPGestionCompte/bin/Debug/net8.0/TPGestionCompte.runtimeconfig.json
+/home/timdecool/RiderProjects/TPGestionCompte/TPGestionCompte/bin/Debug/net8.0/TPGestionCompte.dll
+/home/timdecool/RiderProjects/TPGestionCompte/TPGestionCompte/bin/Debug/net8.0/TPGestionCompte.pdb
+/home/timdecool/RiderProjects/TPGestionCompte/TPGestionCompte/obj/Debug/net8.0/TPGestionCompte.GeneratedMSBuildEditorConfig.editorconfig
+/home/timdecool/RiderProjects/TPGestionCompte/TPGestionCompte/obj/Debug/net8.0/TPGestionCompte.AssemblyInfoInputs.cache
+/home/timdecool/RiderProjects/TPGestionCompte/TPGestionCompte/obj/Debug/net8.0/TPGestionCompte.AssemblyInfo.cs
+/home/timdecool/RiderProjects/TPGestionCompte/TPGestionCompte/obj/Debug/net8.0/TPGestionCompte.csproj.CoreCompileInputs.cache
+/home/timdecool/RiderProjects/TPGestionCompte/TPGestionCompte/obj/Debug/net8.0/TPGestionCompte.dll
+/home/timdecool/RiderProjects/TPGestionCompte/TPGestionCompte/obj/Debug/net8.0/refint/TPGestionCompte.dll
+/home/timdecool/RiderProjects/TPGestionCompte/TPGestionCompte/obj/Debug/net8.0/TPGestionCompte.pdb
+/home/timdecool/RiderProjects/TPGestionCompte/TPGestionCompte/obj/Debug/net8.0/TPGestionCompte.genruntimeconfig.cache
+/home/timdecool/RiderProjects/TPGestionCompte/TPGestionCompte/obj/Debug/net8.0/ref/TPGestionCompte.dll
